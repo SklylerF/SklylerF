@@ -4,7 +4,7 @@ Hi 👋 My name is Skyler Reece Ferreira
 Full-Stack Web Developer
 ------------------------
 
-Hello, I am Skyler Ferreira and I am currently studying at UCR extension to become a full-stack web developer! This is my first step to becoming a full-stack developer and I have been impressed with how all the technology I have been exposed to and far I have come already. If you haven't taken a look into my repository I suggest taking a look at "Madelines-nail-boutique". This is my very first time working on a full-stack webpage with a team that I am very proud to present to you! Soon I will be learning the latest and greatest and I am excited to show future employers the skills I can provide to the workplace in the near future.
+Hello, I am Skyler Ferreira and I am currently studying at UCR extension to become a full-stack web developer! In the time I have spent in this program I have learned how to work as a team and create something the client wants. The languages I am exposed to have helped me grow and discover an infinite amount of possibilities in software development. I am proud of my projects and skills acquired but as we all know software engineering changes and grows into a bottomless pool of knowledge. The future of engineering is created daily and I am proud to be one of the most recent additions. I am open and excited to learn many new languages and techniques that will propel me further in my career and provide a quality product to my employers.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [skylerferreira994@gmail.com](mailto:skylerferreira994@gmail.com)
